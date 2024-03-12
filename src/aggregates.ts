@@ -44,7 +44,7 @@ const aggregates = async () => {
     },
   });
 
-  console.log(sumAge);
+  console.log(minAge);
 };
 
 aggregates();
